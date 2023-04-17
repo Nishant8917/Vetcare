@@ -69,7 +69,7 @@ Note: These are general instructions for setting up an Express API, and the spec
 ![2 add appointment](https://user-images.githubusercontent.com/102970380/232580335-84528a71-17f5-4b18-baf9-bb175fcab7f8.png)
 
 # Get AppointMenet
-![1 appointment](https://user-images.githubusercontent.com/49386888/128675791-2528fc5b-bd8f-4510-a487-6d71da9c79d8.png)
+![1 appointment](https://user-images.githubusercontent.com/102970380/232580818-bc5ab94d-a12d-434e-84da-b8fe662daa2b.png)
 
 # Appointment
 ![3 doctor appointments](https://user-images.githubusercontent.com/49386888/128675842-601a2e14-e64b-4fd8-aea5-ff2dcfab3361.png)
