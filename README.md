@@ -75,7 +75,7 @@ Note: These are general instructions for setting up an Express API, and the spec
 ![3 doctor appointments](https://user-images.githubusercontent.com/49386888/128675842-601a2e14-e64b-4fd8-aea5-ff2dcfab3361.png)
 
 # Daashboard (as i have left few functionality here for admin only )
-![4 dashboard](https://user-images.githubusercontent.com/49386888/128675845-50a0c7dc-2d45-4d88-8b19-a825d4f8c138.png)
+![4 dashboard](https://user-images.githubusercontent.com/102970380/232581485-453fa0da-d2fd-4af8-87a1-7bbbaf4cb1bf.png)
 
 # All Patient List (this feature only visible for doctor's and admin )
 ![5 all patients](https://user-images.githubusercontent.com/49386888/128675846-cdb77ec8-d2fc-4184-9bff-715ed513862f.png)
