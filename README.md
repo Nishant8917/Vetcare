@@ -1,6 +1,6 @@
-# Online Doctor Appointment
+# Online Veteniary Consultancy Platform
 
-Patients can select a desired doctor appointment date through the online platform. This project is developed using the MERN stack technology, and I have implemented various functionalities to make it a professional website. Currently, I do not have much time, but in the future, I plan to add additional functionality in the admin panel. For now, the current state is sufficient.
+Introducing Vetcare, the ultimate healthcare app for animal lovers! Vetcare is a comprehensive platform that connects pet owners with veterinary professionals from all around the country. This project is developed using the MERN stack technology, and various functionalities have been implemented to make it a professional website.In addition, Vetcare features an admin panel that allows for easy management of doctors and appointments, making it simple to keep track of your pet's healthcare needs. With its sleek and user-friendly interface, Vetcare is the one-stop solution for all your pet care needs.
 
 ##Setting up this MERN project on your local machine typically involves the following steps:
 ###The front-end and Express code are in the same directory, with the Express API located at ./api
