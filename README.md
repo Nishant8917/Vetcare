@@ -1,4 +1,4 @@
-# Online Veteniary Consultancy Platform
+# Online Veternairy Consultancy Platform
 
 Introducing Vetcare, the ultimate healthcare app for animal lovers! Vetcare is a comprehensive platform that connects pet owners with veterinary professionals from all around the country. This project is developed using the MERN stack technology, and various functionalities have been implemented to make it a professional website.In addition, Vetcare features an admin panel that allows for easy management of doctors and appointments, making it simple to keep track of your pet's healthcare needs. With its sleek and user-friendly interface, Vetcare is the one-stop solution for all your pet care needs.
 
@@ -62,9 +62,8 @@ Note: These are general instructions for setting up an Express API, and the spec
 # Sign Up (In this component Especial for me becaouse i have did everthing functionaliy via vanila Javascript and Make this strong Pass and Validation )
 ![Signup](https://user-images.githubusercontent.com/49386888/128677874-cac290d9-a75f-4dee-9312-d6542162be0f.png)
 
-## Landing Page
-![0 home page](![LandingPage](https://user-images.githubusercontent.com/102970380/232577942-fac3c970-7a73-49a7-8552-bf6669a7771a.png)
-)
+# Landing Page
+![0 home page](https://user-images.githubusercontent.com/102970380/232577942-fac3c970-7a73-49a7-8552-bf6669a7771a.png)
 
 # User Have to Logged in and Add his Appointment
 ![2 add appointment](https://user-images.githubusercontent.com/49386888/128675760-992691a8-978a-4aed-a9cc-dd3c693ec390.png)
