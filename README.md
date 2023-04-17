@@ -66,7 +66,7 @@ Note: These are general instructions for setting up an Express API, and the spec
 ![0 home page](https://user-images.githubusercontent.com/102970380/232577942-fac3c970-7a73-49a7-8552-bf6669a7771a.png)
 
 # User Have to Logged in and Add his Appointment
-![2 add appointment](https://user-images.githubusercontent.com/49386888/128675760-992691a8-978a-4aed-a9cc-dd3c693ec390.png)
+![2 add appointment](https://user-images.githubusercontent.com/102970380/232580335-84528a71-17f5-4b18-baf9-bb175fcab7f8.png)
 
 # Get AppointMenet
 ![1 appointment](https://user-images.githubusercontent.com/49386888/128675791-2528fc5b-bd8f-4510-a487-6d71da9c79d8.png)
